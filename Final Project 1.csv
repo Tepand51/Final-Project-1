@@ -1,0 +1,9 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1708930190980,92,GET Single User Request,200,OK,Workload Config 1-1,text,true,,1186,96,1,1,https://reqres.in/api/users/2,92,0,59
+1708930191073,380,POST Single User Request,201,Created,Workload Config 1-1,text,true,,896,201,1,1,https://reqres.in/api/users,380,0,0
+1708930191457,32,GET Single User Request,200,OK,Workload Config 1-1,text,true,,1186,96,1,1,https://reqres.in/api/users/2,32,0,0
+1708930191490,381,POST Single User Request,201,Created,Workload Config 1-1,text,true,,896,201,1,1,https://reqres.in/api/users,381,0,0
+1708930220978,120,GET Single User Request,200,OK,Workload Config 1-2,text,true,,1186,96,1,1,https://reqres.in/api/users/2,120,0,67
+1708930221099,383,POST Single User Request,201,Created,Workload Config 1-2,text,true,,901,201,1,1,https://reqres.in/api/users,383,0,0
+1708930221484,44,GET Single User Request,200,OK,Workload Config 1-2,text,true,,1186,96,1,1,https://reqres.in/api/users/2,44,0,0
+1708930221530,382,POST Single User Request,201,Created,Workload Config 1-2,text,true,,901,201,1,1,https://reqres.in/api/users,382,0,0
